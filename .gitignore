@@ -24,3 +24,18 @@
 /public/packs
 /public/packs-test
 /node_modules
+
+# env
+config/database.yml
+config/dev_database.yml
+config/settings.yml
+
+public/uploads
+
+# Editor
+.idea
+/public/packs
+/node_modules
+
+# Mac
+.DS_Store
